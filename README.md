@@ -23,6 +23,8 @@
     <img src="https://cdn.worldvectorlogo.com/logos/gunicorn.svg" alt="gunicorn" width="70" height="70"></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/> </a>
+<a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer"> 
+    <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" alt="git" width="70" height="70"/> </a>
 
 ### Tools and Databases
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
