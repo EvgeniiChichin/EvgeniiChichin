@@ -18,7 +18,7 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker" width="70" height="70"></a>
 <a href="https://nginx.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.nginx.com/wp-content/uploads/2021/08/NGINX-Part-of-F5-horiz-black-type-1.svg" alt="nginx" width="70" height="70"></a>
+    <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="nginx" width="70" height="70"></a>
 <a href="https://gunicorn.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/gunicorn.svg" alt="gunicorn" width="70" height="70"></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
