@@ -21,9 +21,9 @@
     <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="nginx" width="70" height="70"></a>
 <a href="https://gunicorn.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/gunicorn.svg" alt="gunicorn" width="70" height="70"></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/> </a>
-<a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer"> 
+<a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer">
     <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" alt="git" width="70" height="70"/> </a>
 
 ### Tools and Databases
@@ -45,6 +45,8 @@
     <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="sqlite" width="70" height="70"></a>
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="sqlite" width="70" height="70"></a>
+<a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="sqlite" width="70" height="70"></a>
 
 ### Frontend
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
