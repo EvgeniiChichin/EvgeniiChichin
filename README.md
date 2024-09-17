@@ -43,6 +43,8 @@
     <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="70" height="70"></a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="sqlite" width="70" height="70"></a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="sqlite" width="70" height="70"></a>
 
 ### Frontend
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
